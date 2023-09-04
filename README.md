@@ -84,7 +84,7 @@
 ### Week 5 -- Curve / Noise / Nested Loop
  * Zach Lieberman    
     * [Manual Input Sessions](https://www.youtube.com/watch?v=3paLKLZbRY4)
-    * [IQ Font](https://vimeo.com/5233789)
+    * [Ink Space](https://experiments.withgoogle.com/ink-space)
     * [Reflection](https://www.youtube.com/watch?v=FOV3FDbpEvI)
     * [Reflection](https://twitter.com/zachlieberman/status/1082672539464331264)
  * [Random VS Perlin Noise](https://editor.p5js.org/jinsung/sketches/DghwXR_H)
