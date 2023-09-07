@@ -1,8 +1,8 @@
 # Creative Computing
 - Fall, 2023
-- Instructor: Jin Sung Yoo - ujinsung@gmail.com
-- Time: Thursday, 6:30 PM - 9:20 PM
-- Location: 209 E 23 St, 210 Studio
+- Instructor: Jin Sung Yoo - ujinsung@gmail.com | jyoo6@sva.edu
+- Time: 9/7/2023 - 12/19/2023 / Thursday, 6:30 PM - 9:20 PM
+- Location: 209 E 23 St, Studio 508
 
 ## DESCRIPTION
 - This course involves an exploration of computer programming as a tool of visual communication and interactivity between a computer and people. This is a project-based course. Students will learn computer programming through their hands-on experiences. During the semester. The p5.js will be used to illustrate the fundamental of computation.
