@@ -5,7 +5,7 @@
 - Location: 209 E 23 St, Studio 508
 
 ## DESCRIPTION
-- This course involves an exploration of computer programming as a tool of visual communication and interactivity between a computer and people. This is a project-based course. Students will learn computer programming through their hands-on experiences. During the semester. The p5.js will be used to illustrate the fundamental of computation.
+- This course explores computer programming as a tool for visual communication and interactivity between a computer and people. It is a project-based course in which students learn computer programming through hands-on experiences. The p5.js library will be used to illustrate the fundamentals of computation throughout the semester.
 
 ## RESOURCES
 - [p5.js tutorials](https://p5js.org/learn/)
