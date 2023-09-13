@@ -56,6 +56,7 @@
     * Declare, Initialize, and Use
   * [Mouse Position](https://editor.p5js.org/jinsung/sketches/6sEwURA2z)
   * [No Background](https://editor.p5js.org/jinsung/sketches/V6u5fiLJq)
+  * [Pick next week presenters](https://editor.p5js.org/jinsung/sketches/16fGAon8n)
   * Homework - bouncing ball!
 
 ### Week 3 -- Animation
