@@ -41,9 +41,10 @@
     
 ### Week 2 -- Shape / Variables
   * [John Maeda Ted 2012](https://www.ted.com/talks/john_maeda_how_art_technology_and_design_inform_creative_leaders)
+  * Creative Technology
   * [Step-by-step approach](https://www.youtube.com/watch?v=cDA3_5982h8)
   * Programming languages
-    * Interpreted language
+    * Interpreted languages
     * Client / Server side languages
   * [Setup / Draw Functions](https://editor.p5js.org/jinsung/sketches/nbKQODiF8)
   * Canvas, Pixels and Color
