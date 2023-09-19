@@ -56,7 +56,13 @@
     * Built-in or User-defined
     * Declare, Initialize, and Use
   * [Mouse Position](https://editor.p5js.org/jinsung/sketches/6sEwURA2z)
+  * [Line Drawing](https://editor.p5js.org/jinsung/sketches/-WTijUk-3)
   * [No Background](https://editor.p5js.org/jinsung/sketches/V6u5fiLJq)
+  * [Animation / Variable](https://editor.p5js.org/jinsung/sketches/LnK1fCGxG)
+    * Type of the variable (Number, String, Boolean)
+    * Scope
+  * [Boolean Operation](https://editor.p5js.org/jinsung/sketches/HYDqGeOFv)
+  * [Conditions](https://editor.p5js.org/jinsung/sketches/kq1Cszsja)
   * [Pick next week presenters](https://editor.p5js.org/jinsung/sketches/16fGAon8n)
   * Homework - bouncing ball!
 
@@ -64,48 +70,48 @@
  * Casey Reas
     * [How to draw with Code](https://www.youtube.com/watch?v=_8DMEHxOLQE)
  * Comment
- * Console.log!
- * [Line Drawing](https://editor.p5js.org/jinsung/sketches/-WTijUk-3)
- * [Random](https://editor.p5js.org/jinsung/sketches/OWSOiteWJ)
- * [Animation / Variable](https://editor.p5js.org/jinsung/sketches/LnK1fCGxG)
-    * Type of the variable (Number, String, Boolean)
-    * Scope
- * [Boolean Operation](https://editor.p5js.org/jinsung/sketches/HYDqGeOFv)
+ * console.log() / print()
+ * Variables
+    * Naming
+    * const vs let vs var
+ * [Conditions 2](https://editor.p5js.org/jinsung/sketches/1kKTMtQS)
+ * [Random function](https://editor.p5js.org/jinsung/sketches/OWSOiteWJ)
+ * Events
+    * Built-in variables
+    * Callback functions
  * [Easing](https://editor.p5js.org/jinsung/sketches/UjXbU3Q8O)
+ * Lerp function
 
 ### Week 4 -- Condition / Loop
  * [Kyle McDonald](https://kylemcdonald.net/)
- * [Conditions](https://editor.p5js.org/jinsung/sketches/kq1Cszsja)
- * [Conditions 2](https://editor.p5js.org/jinsung/sketches/1kKTMtQS)
  * [While Loop 1](https://editor.p5js.org/jinsung/sketches/p_11LXsvK)
  * [While Loop 2](https://editor.p5js.org/jinsung/sketches/MJ1oqNRBH)
  * [For Loop 1](https://editor.p5js.org/jinsung/sketches/5Ck8nwtLc)
  * [For Loop 2](https://editor.p5js.org/jinsung/sketches/_ePNjW-0h)
+ * Map function
+ * Debuger
  * [Trigonometry](https://editor.p5js.org/jinsung/sketches/_WxzlsQow)
 
 ### Week 5 -- Curve / Noise / Nested Loop
- * Zach Lieberman    
-    * [Manual Input Sessions](https://www.youtube.com/watch?v=3paLKLZbRY4)
-    * [Ink Space](https://experiments.withgoogle.com/ink-space)
-    * [Reflection](https://www.youtube.com/watch?v=FOV3FDbpEvI)
-    * [Reflection](https://twitter.com/zachlieberman/status/1082672539464331264)
+ * [kinetic type generator](https://spacetypegenerator.com/) from [kielm](https://www.kielm.com/)
  * [Random VS Perlin Noise](https://editor.p5js.org/jinsung/sketches/DghwXR_H)
  * [Bezier](https://p5js.org/reference/#/p5/bezier)
  * [Perlin Noise 2](https://editor.p5js.org/jinsung/sketches/5Dx8IiKic)
  * [Perlin Noise 3](https://editor.p5js.org/jinsung/sketches/1zw6R4AjL)
 
 ### Week 6 -- Nested Loop
+ * Zach Lieberman    
+    * [Manual Input Sessions](https://www.youtube.com/watch?v=3paLKLZbRY4)
+    * [Ink Space](https://experiments.withgoogle.com/ink-space)
+    * [Reflection](https://www.youtube.com/watch?v=FOV3FDbpEvI)
+    * [Reflection](https://twitter.com/zachlieberman/status/1082672539464331264)
  * [For Loop 3](https://editor.p5js.org/jinsung/sketches/oIg2GKphj)
  * [Nested For Loop](https://editor.p5js.org/jinsung/sketches/u5kQQvSQf)
  * [Nested For Loop](https://editor.p5js.org/jinsung/sketches/BUhPCkQM_)
 
 ### Week 7 -- Function / Clock
- * A [kinetic type generator](https://spacetypegenerator.com/) from [kielm](https://www.kielm.com/)
  * [DIA](https://dia.tv/)
  * [Interactive bezier](https://editor.p5js.org/jinsung/sketches/p4dMawHQB)
- * Debug
-   * console.log
-   * Javascript Debugger
  * [curveVertex()](https://p5js.org/reference/#/p5/curveVertex)
  * [Nested For Loop / Curves](https://editor.p5js.org/jinsung/sketches/1q36GJcFT)
  * Function
