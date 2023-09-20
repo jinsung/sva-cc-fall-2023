@@ -74,8 +74,9 @@
  * Variables
     * Naming
     * const vs let vs var
+    * [Reusable](https://editor.p5js.org/jinsung/sketches/LnK1fCGxG)
  * [Conditions 2](https://editor.p5js.org/jinsung/sketches/1kKTMtQS)
- * Events
+ * [Events](https://editor.p5js.org/jinsung/sketches/YBI3yPVD1)
     * Built-in variables
     * Callback functions
  * [Easing](https://editor.p5js.org/jinsung/sketches/UjXbU3Q8O)
