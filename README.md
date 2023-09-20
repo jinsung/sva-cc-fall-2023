@@ -75,12 +75,12 @@
     * Naming
     * const vs let vs var
  * [Conditions 2](https://editor.p5js.org/jinsung/sketches/1kKTMtQS)
- * [Random function](https://editor.p5js.org/jinsung/sketches/OWSOiteWJ)
  * Events
     * Built-in variables
     * Callback functions
  * [Easing](https://editor.p5js.org/jinsung/sketches/UjXbU3Q8O)
- * Lerp function
+ * [Lerp function](https://editor.p5js.org/jinsung/sketches/5FRaaBZFY)
+ * [Random function](https://editor.p5js.org/jinsung/sketches/OWSOiteWJ)
 
 ### Week 4 -- Condition / Loop
  * [Kyle McDonald](https://kylemcdonald.net/)
