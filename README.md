@@ -87,6 +87,7 @@
 
 ### Week 4 -- Loop
  * [Kyle McDonald](https://kylemcdonald.net/)
+ * Presenters: Hee-Jin, Mina, Aixue
  * [While Loop 1](https://editor.p5js.org/jinsung/sketches/p_11LXsvK)
  * [While Loop 2](https://editor.p5js.org/jinsung/sketches/MJ1oqNRBH)
  * [For Loop 1](https://editor.p5js.org/jinsung/sketches/5Ck8nwtLc)
