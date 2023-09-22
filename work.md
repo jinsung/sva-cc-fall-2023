@@ -1,5 +1,5 @@
 ### Ji Hyun
-* [HW1](https://editor.p5js.org/jkim394/sketches/ofVpFai-z)
+* [HW1](https://editor.p5js.org/jbae17/sketches/ndgftuMRZ)
 ### Inwoo
 * [HW1](https://editor.p5js.org/inwoobaek408/sketches/43oewg_jH)
 ### Progga
@@ -27,6 +27,7 @@
 ### Roy (Young Hyun)
 *[HW1](https://editor.p5js.org/yhkim9914/sketches/01EEqZeeg)
 ### Jiyoon
+* [HW1](https://editor.p5js.org/jkim394/sketches/ofVpFai-z)
 ### Taeyeon
 * [HW1](https://editor.p5js.org/tkwon1/full/erDR4Xg0_)
 ### Guanyan
@@ -35,6 +36,7 @@
 * [HW1](https://editor.p5js.org/mson5/sketches/XGhN45w9e)
 ### Ka Lam (Sammi)
 * [HW1](https://editor.p5js.org/sammi.tsaikalam/sketches/eVcOavcK8)
-### Ash
+### Ash (Aixue)
+* [HW1](https://editor.p5js.org/aixuew22/sketches/ll8gOwEHt)
 ### Jae Ho
 * [HW1](https://editor.p5js.org/jyi12/sketches/qu35CZOfm)
