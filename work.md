@@ -16,17 +16,17 @@
 ### Joe (Shangjiong)
 * [HW1](https://editor.p5js.org/shua1/sketches/tSqqT3kyC) 
 ### Heesoo
-*[HW1](https://editor.p5js.org/heesooj1012/sketches/3xH23xuB1)
-*[HW1](https://editor.p5js.org/heesooj1012/sketches/BpRcHcW25)
-*[HW1](https://editor.p5js.org/heesooj1012/sketches/TweCncyyf)
+* [HW1](https://editor.p5js.org/heesooj1012/sketches/3xH23xuB1)
+* [HW1](https://editor.p5js.org/heesooj1012/sketches/BpRcHcW25)
+* [HW1](https://editor.p5js.org/heesooj1012/sketches/TweCncyyf)
 ### Yooneui
-*[HW1](https://editor.p5js.org/yoonique/sketches/QPfAlWfUf)
+* [HW1](https://editor.p5js.org/yoonique/sketches/QPfAlWfUf)
 ### Minjung
-*[HW1](https://editor.p5js.org/Originalsmj/sketches/huf5-7JtN)
+* [HW1](https://editor.p5js.org/Originalsmj/sketches/huf5-7JtN)
 ### Teo
-*[HW1](https://editor.p5js.org/TeoKim/sketches/DwlUJBbIk)
+* [HW1](https://editor.p5js.org/TeoKim/sketches/DwlUJBbIk)
 ### Roy (Young Hyun)
-*[HW1](https://editor.p5js.org/yhkim9914/sketches/01EEqZeeg)
+* [HW1](https://editor.p5js.org/yhkim9914/sketches/01EEqZeeg)
 ### Jiyoon
 * [HW1](https://editor.p5js.org/jkim394/sketches/ofVpFai-z)
 ### Taeyeon
