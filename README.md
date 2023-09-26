@@ -66,7 +66,7 @@
   * [Pick next week presenters](https://editor.p5js.org/jinsung/sketches/16fGAon8n)
   * Homework - bouncing ball!
 
-### Week 3
+### Week 3 - Conditions
  * Casey Reas
     * [How to draw with Code](https://www.youtube.com/watch?v=_8DMEHxOLQE)
  * Presenters: Ji Hyun, Inwoo, Minjung
@@ -77,17 +77,17 @@
     * const vs let vs var
     * [Reusable](https://editor.p5js.org/jinsung/sketches/LnK1fCGxG)
  * [Conditions 2](https://editor.p5js.org/jinsung/sketches/1kKTMtQS)
- * [Events](https://editor.p5js.org/jinsung/sketches/YBI3yPVD1)
-    * Built-in variables
-    * Callback functions
  * [Random function](https://editor.p5js.org/jinsung/sketches/OWSOiteWJ)
  * [Easing](https://editor.p5js.org/jinsung/sketches/UjXbU3Q8O)
  * [Lerp function](https://editor.p5js.org/jinsung/sketches/5FRaaBZFY)
  * [Easing with lerp](https://editor.p5js.org/jinsung/sketches/B5o4bK7_t)
 
-### Week 4 -- Loop
+### Week 4 -- Events / Loop
  * [Kyle McDonald](https://kylemcdonald.net/)
  * Presenters: Hee-Jin, Mina, Aixue
+ * [Events](https://editor.p5js.org/jinsung/sketches/YBI3yPVD1)
+   * Built-in variables
+   * Callback functions
  * [While Loop 1](https://editor.p5js.org/jinsung/sketches/p_11LXsvK)
  * [While Loop 2](https://editor.p5js.org/jinsung/sketches/MJ1oqNRBH)
  * [For Loop 1](https://editor.p5js.org/jinsung/sketches/5Ck8nwtLc)
