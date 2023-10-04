@@ -92,49 +92,48 @@
  * [While Loop 2](https://editor.p5js.org/jinsung/sketches/MJ1oqNRBH)
  * [For Loop 1](https://editor.p5js.org/jinsung/sketches/5Ck8nwtLc)
  * [For Loop 2](https://editor.p5js.org/jinsung/sketches/_ePNjW-0h)
- * Map function
  * Debuger
  * [Trigonometry](https://editor.p5js.org/jinsung/sketches/_WxzlsQow)
 
-### Week 5 -- Curve / Noise / Nested Loop
- * [kinetic type generator](https://spacetypegenerator.com/) from [kielm](https://www.kielm.com/)
+### Week 5 -- Bezier / Noise / Nested Loop
  * [Random VS Perlin Noise](https://editor.p5js.org/jinsung/sketches/DghwXR_H)
+ * Map function
  * [Bezier](https://p5js.org/reference/#/p5/bezier)
  * [Perlin Noise 2](https://editor.p5js.org/jinsung/sketches/5Dx8IiKic)
  * [Perlin Noise 3](https://editor.p5js.org/jinsung/sketches/1zw6R4AjL)
+ * [For Loop 3](https://editor.p5js.org/jinsung/sketches/oIg2GKphj)
+ * [Nested For Loop](https://editor.p5js.org/jinsung/sketches/u5kQQvSQf)
+ * [Nested For Loop](https://editor.p5js.org/jinsung/sketches/BUhPCkQM_)
 
-### Week 6 -- Nested Loop
+### Week 6 -- Nested Loop / 2D Transformation
  * Zach Lieberman    
     * [Manual Input Sessions](https://www.youtube.com/watch?v=3paLKLZbRY4)
     * [Ink Space](https://experiments.withgoogle.com/ink-space)
     * [Reflection](https://www.youtube.com/watch?v=FOV3FDbpEvI)
     * [Reflection](https://twitter.com/zachlieberman/status/1082672539464331264)
- * [For Loop 3](https://editor.p5js.org/jinsung/sketches/oIg2GKphj)
- * [Nested For Loop](https://editor.p5js.org/jinsung/sketches/u5kQQvSQf)
- * [Nested For Loop](https://editor.p5js.org/jinsung/sketches/BUhPCkQM_)
+ * [curveVertex()](https://p5js.org/reference/#/p5/curveVertex)
+ * [Nested For Loop / Curves](https://editor.p5js.org/jinsung/sketches/1q36GJcFT)
+ * [2D Transformation](https://editor.p5js.org/jinsung/sketches/fuV9qy_iZ)
+    * Translate / Rotate / Scale
+    * [Push / Pop](https://editor.p5js.org/jinsung/sketches/l5wq6xeS2)
 
 ### Week 7 -- Function / Clock
  * [DIA](https://dia.tv/)
- * [Interactive bezier](https://editor.p5js.org/jinsung/sketches/p4dMawHQB)
- * [curveVertex()](https://p5js.org/reference/#/p5/curveVertex)
- * [Nested For Loop / Curves](https://editor.p5js.org/jinsung/sketches/1q36GJcFT)
  * Function
     * [Modularity](https://editor.p5js.org/jinsung/sketches/l7Uf-zbeO)
     * [Reusability](https://editor.p5js.org/jinsung/sketches/HAyYTZWG7)
  * [Clock](https://editor.p5js.org/jinsung/sketches/6zSA6_ZeW)
     * [John Maeda's 12 o'clocks](https://codingtrain.github.io/12oclocks/)
     * Yugo Nakamura ([DotClock](https://frm.fm/a/yugo_nakamura/dotclock), [DropClock](https://frm.fm/a/yugo_nakamura/dropclock),  [Industrious Clock](https://www.youtube.com/watch?v=HY6kUGpBoro))
+ * [Homework](https://processing.org/tutorials/transform2d)
 
 ### Week 8 -- 2D Transformation, Function, Recursion
  * [THA LTD.](http://tha.jp/works/)
     * [HIKARI NO TOKEI](https://tha.jp/1367)
     * [INDUSTRIOUS CLOCK](https://tha.jp/2816)
  * [Motion Inspo.](https://www.are.na/lochlan-doyle/motion-techniques)
- * [2D Transformation](https://editor.p5js.org/jinsung/sketches/fuV9qy_iZ)
-    * Translate / Rotate / Scale
-    * [Push / Pop](https://editor.p5js.org/jinsung/sketches/l5wq6xeS2)
+ * Sound Viz (TODO)
  * Recursion (TODO)
- * [Homework](https://processing.org/tutorials/transform2d)
 
 ### Week 9 -- Object and Array
  * https://experiments.withgoogle.com/
@@ -143,17 +142,19 @@
    * class & constructor
    * keywords: new, this
  * [Array](https://editor.p5js.org/jinsung/sketches/cHcf9kZdc)
+ * [Interactive bezier](https://editor.p5js.org/jinsung/sketches/p4dMawHQB)
  * [Array with For Loop](https://editor.p5js.org/jinsung/sketches/LC-b5TInX)
  * [Object with Array](https://editor.p5js.org/jinsung/sketches/xKneEnFnW)
  * Adding Files and Fonts
  * [Moving Characters 1](https://editor.p5js.org/jinsung/sketches/cJWSbuV1P2)
  
 ### Week 10 -- Kinetic Typography
- * [three.js](https://threejs.org/)
+ * [kinetic type generator](https://spacetypegenerator.com/) from [kielm](https://www.kielm.com/)
  * [Moving Charactors 2](https://editor.p5js.org/jinsung/sketches/SsIxIlQYa)
  * [Moving Charactors 3](https://editor.p5js.org/jinsung/sketches/aHTNv334s)
 
-### Week 11 -- Kinetic Typography II (TODO)
+### Week 11 -- TBD
+ * [three.js](https://threejs.org/)
  
 ### Week 12 -- External Files / Pixels / Webcam
  * Mid-term Due
