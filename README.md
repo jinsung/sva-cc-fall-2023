@@ -96,6 +96,7 @@
  * [Trigonometry](https://editor.p5js.org/jinsung/sketches/_WxzlsQow)
 
 ### Week 5 -- Bezier / Noise / Nested Loop
+ * [Refik Anadol](https://refikanadol.com/)
  * [Random VS Perlin Noise](https://editor.p5js.org/jinsung/sketches/DghwXR_H)
  * Map function
  * [Bezier](https://p5js.org/reference/#/p5/bezier)
