@@ -1,5 +1,6 @@
 ### Ji Hyun
 * [HW1](https://editor.p5js.org/jbae17/sketches/ndgftuMRZ)
+* [HW2](https://editor.p5js.org/jkim394/sketches/VnQVovzxwh)
 ### Inwoo
 * [HW1](https://editor.p5js.org/inwoobaek408/sketches/43oewg_jH)
 ### Progga
@@ -41,6 +42,7 @@
 * [HW2](https://editor.p5js.org/luguanyan.xjy/sketches/MVbnrP7XD)
 ### Mina
 * [HW1](https://editor.p5js.org/mson5/sketches/XGhN45w9e)
+* [HW2](https://editor.p5js.org/mson5/sketches/YTkReFQMY)
 ### Ka Lam (Sammi)
 * [HW1](https://editor.p5js.org/sammi.tsaikalam/sketches/eVcOavcK8)
 ### Ash (Aixue)
