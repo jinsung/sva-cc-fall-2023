@@ -7,8 +7,10 @@
 * [HW1](https://editor.p5js.org/pbiswas/sketches/0e38aahYP)
 ### Hee-Jin
 * [HW1](https://editor.p5js.org/hchang53/sketches/2puTAIjeh)
+* [HW2](https://editor.p5js.org/hchang53/sketches/c8PFSuOs1)
 ### Carol
 * [HW1](https://editor.p5js.org/cfunke/sketches/Gc3bMtj8A)
+* [HW2](https://editor.p5js.org/cfunke/sketches/AET0vGoTH)
 ### Skylar (Shaowen)
 * [HW1](https://editor.p5js.org/sgong8/sketches/sBF9HGIUu)
 ### Meichen (Kira)
@@ -19,8 +21,10 @@
 * [HW1](https://editor.p5js.org/heesooj1012/sketches/3xH23xuB1)
 * [HW1](https://editor.p5js.org/heesooj1012/sketches/BpRcHcW25)
 * [HW1](https://editor.p5js.org/heesooj1012/sketches/TweCncyyf)
+* [HW2](https://editor.p5js.org/heesooj1012/sketches/_ymAnHJJz)
 ### Yooneui
 * [HW1](https://editor.p5js.org/yoonique/sketches/QPfAlWfUf)
+* [HW2](https://editor.p5js.org/yoonique/sketches/VPiMmJt4u)
 ### Minjung
 * [HW1](https://editor.p5js.org/Originalsmj/sketches/huf5-7JtN)
 ### Teo
@@ -31,8 +35,10 @@
 * [HW1](https://editor.p5js.org/jkim394/sketches/ofVpFai-z)
 ### Taeyeon
 * [HW1](https://editor.p5js.org/tkwon1/full/erDR4Xg0_)
+* [HW2](https://editor.p5js.org/tkwon1/full/JVnFv5X3p)
 ### Guanyan
 * [HW1](https://editor.p5js.org/luguanyan.xjy/sketches/7u8fTwOfl)
+* [HW2](https://editor.p5js.org/luguanyan.xjy/sketches/MVbnrP7XD)
 ### Mina
 * [HW1](https://editor.p5js.org/mson5/sketches/XGhN45w9e)
 ### Ka Lam (Sammi)
