@@ -47,5 +47,6 @@
 * [HW1](https://editor.p5js.org/sammi.tsaikalam/sketches/eVcOavcK8)
 ### Ash (Aixue)
 * [HW1](https://editor.p5js.org/aixuew22/sketches/ll8gOwEHt)
+* [HW2](https://editor.p5js.org/aixuew22/sketches/G5aFhe-l2)
 ### Jae Ho
 * [HW1](https://editor.p5js.org/jyi12/sketches/qu35CZOfm)
