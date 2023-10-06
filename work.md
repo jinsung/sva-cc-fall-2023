@@ -1,11 +1,12 @@
 ### Ji Hyun
 * [HW1](https://editor.p5js.org/jbae17/sketches/ndgftuMRZ)
-* [HW2](https://editor.p5js.org/jkim394/sketches/VnQVovzxwh)
+* [HW2](https://editor.p5js.org/jbae17/sketches/ZkP22VfmD)
 ### Inwoo
 * [HW1](https://editor.p5js.org/inwoobaek408/sketches/43oewg_jH)
 ### Progga
 * [HW1](https://editor.p5js.org/pbiswas/sketches/CBg2iN_Sw)
 * [HW1](https://editor.p5js.org/pbiswas/sketches/0e38aahYP)
+* [HW2](https://editor.p5js.org/pbiswas/sketches/aM-OJIBAQ)
 ### Hee-Jin
 * [HW1](https://editor.p5js.org/hchang53/sketches/2puTAIjeh)
 * [HW2](https://editor.p5js.org/hchang53/sketches/c8PFSuOs1)
@@ -16,8 +17,10 @@
 * [HW1](https://editor.p5js.org/sgong8/sketches/sBF9HGIUu)
 ### Meichen (Kira)
 * [HW1](https://editor.p5js.org/mguo10/sketches/EB8zYyUwS)
+* [HW2](https://editor.p5js.org/mguo10/sketches/E4pa1sLah)
 ### Joe (Shangjiong)
-* [HW1](https://editor.p5js.org/shua1/sketches/tSqqT3kyC) 
+* [HW1](https://editor.p5js.org/shua1/sketches/tSqqT3kyC)
+* [HW2](https://editor.p5js.org/shua1/sketches/Z8-ovCWd2)
 ### Heesoo
 * [HW1](https://editor.p5js.org/heesooj1012/sketches/3xH23xuB1)
 * [HW1](https://editor.p5js.org/heesooj1012/sketches/BpRcHcW25)
@@ -32,8 +35,10 @@
 * [HW1](https://editor.p5js.org/TeoKim/sketches/DwlUJBbIk)
 ### Roy (Young Hyun)
 * [HW1](https://editor.p5js.org/yhkim9914/sketches/01EEqZeeg)
+* [HW2](https://editor.p5js.org/yhkim9914/sketches/uuFfCfHD1)
 ### Jiyoon
 * [HW1](https://editor.p5js.org/jkim394/sketches/ofVpFai-z)
+* [HW2](https://editor.p5js.org/jkim394/sketches/VnQVovzxwh)
 ### Taeyeon
 * [HW1](https://editor.p5js.org/tkwon1/full/erDR4Xg0_)
 * [HW2](https://editor.p5js.org/tkwon1/full/JVnFv5X3p)
@@ -45,6 +50,7 @@
 * [HW2](https://editor.p5js.org/mson5/sketches/YTkReFQMY)
 ### Ka Lam (Sammi)
 * [HW1](https://editor.p5js.org/sammi.tsaikalam/sketches/eVcOavcK8)
+* [HW2](https://editor.p5js.org/sammi.tsaikalam/sketches/AQhl-rvtV)
 ### Ash (Aixue)
 * [HW1](https://editor.p5js.org/aixuew22/sketches/ll8gOwEHt)
 * [HW2](https://editor.p5js.org/aixuew22/sketches/G5aFhe-l2)
