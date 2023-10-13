@@ -121,6 +121,7 @@
 
 ### Week 7 -- Function / Clock
  * [DIA](https://dia.tv/)
+ * Presenters: Sammi, Roy, Carol
  * Function
     * [Modularity](https://editor.p5js.org/jinsung/sketches/l7Uf-zbeO)
     * [Reusability](https://editor.p5js.org/jinsung/sketches/HAyYTZWG7)
