@@ -118,32 +118,35 @@
  * [2D Transformation](https://editor.p5js.org/jinsung/sketches/fuV9qy_iZ)
     * Translate / Rotate / Scale
     * [Push / Pop](https://editor.p5js.org/jinsung/sketches/l5wq6xeS2)
+ * [Homework](https://processing.org/tutorials/transform2d)
 
 ### Week 7 -- Function / Clock
  * [DIA](https://dia.tv/)
  * Presenters: Sammi, Roy, Carol
  * Function
+    * Function basic
+    * Parameters
+    * Return
     * [Modularity](https://editor.p5js.org/jinsung/sketches/l7Uf-zbeO)
     * [Reusability](https://editor.p5js.org/jinsung/sketches/HAyYTZWG7)
  * [Clock](https://editor.p5js.org/jinsung/sketches/6zSA6_ZeW)
     * [John Maeda's 12 o'clocks](https://codingtrain.github.io/12oclocks/)
     * Yugo Nakamura ([DotClock](https://frm.fm/a/yugo_nakamura/dotclock), [DropClock](https://frm.fm/a/yugo_nakamura/dropclock),  [Industrious Clock](https://www.youtube.com/watch?v=HY6kUGpBoro))
- * [Homework](https://processing.org/tutorials/transform2d)
 
-### Week 8 -- 2D Transformation, Function, Recursion
+### Week 8 -- Object / Sound
  * [THA LTD.](http://tha.jp/works/)
     * [HIKARI NO TOKEI](https://tha.jp/1367)
     * [INDUSTRIOUS CLOCK](https://tha.jp/2816)
  * [Motion Inspo.](https://www.are.na/lochlan-doyle/motion-techniques)
- * Sound Viz (TODO)
  * Recursion (TODO)
-
-### Week 9 -- Object and Array
- * https://experiments.withgoogle.com/
+ * Sound Viz (TODO)
  * [Object](https://editor.p5js.org/jinsung/sketches/KtVF8apBV)
    * Encapsulation, 
    * class & constructor
    * keywords: new, this
+
+### Week 9 -- Array
+ * https://experiments.withgoogle.com/
  * [Array](https://editor.p5js.org/jinsung/sketches/cHcf9kZdc)
  * [Interactive bezier](https://editor.p5js.org/jinsung/sketches/p4dMawHQB)
  * [Array with For Loop](https://editor.p5js.org/jinsung/sketches/LC-b5TInX)
@@ -159,7 +162,7 @@
 ### Week 11 -- TBD
  * [three.js](https://threejs.org/)
  
-### Week 12 -- External Files / Pixels / Webcam
+### Week 12 -- Pixels / Webcam
  * Mid-term Due
  * [ml5](https://learn.ml5js.org/docs/#/)
  * [posenet](https://medium.com/tensorflow/real-time-human-pose-estimation-in-the-browser-with-tensorflow-js-7dd0bc881cd5)
