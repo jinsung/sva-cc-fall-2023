@@ -134,6 +134,8 @@
     * Yugo Nakamura ([DotClock](https://frm.fm/a/yugo_nakamura/dotclock), [DropClock](https://frm.fm/a/yugo_nakamura/dropclock),  [Industrious Clock](https://www.youtube.com/watch?v=HY6kUGpBoro))
  * Sound Viz
     * [FFT intro](https://editor.p5js.org/jinsung/sketches/_D5CCIxPi)
+    * [Waveform](https://editor.p5js.org/jinsung/sketches/STCESlFxY)
+ * Midterm / Next Presenters
 
 ### Week 8 -- Object / Sound
  * [THA LTD.](http://tha.jp/works/)
