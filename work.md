@@ -64,6 +64,7 @@
 ### Ka Lam (Sammi)
 * [HW1](https://editor.p5js.org/sammi.tsaikalam/sketches/eVcOavcK8)
 * [HW2](https://editor.p5js.org/sammi.tsaikalam/sketches/AQhl-rvtV)
+* [HW3](https://editor.p5js.org/ktsai3/sketches/GaTJlgsCs)
 ### Ash (Aixue)
 * [HW1](https://editor.p5js.org/aixuew22/sketches/ll8gOwEHt)
 * [HW2](https://editor.p5js.org/aixuew22/sketches/G5aFhe-l2)
