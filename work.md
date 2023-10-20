@@ -37,11 +37,14 @@
 * [HW2](https://editor.p5js.org/yoonique/sketches/VPiMmJt4u)
 ### Minjung
 * [HW1](https://editor.p5js.org/Originalsmj/sketches/huf5-7JtN)
+* [HW3](https://editor.p5js.org/Originalsmj/sketches/yXTewG5U4)
 ### Teo
 * [HW1](https://editor.p5js.org/TeoKim/sketches/DwlUJBbIk)
+* [HW3](https://editor.p5js.org/teoinearth/full/0HdOX2sUf)
 ### Roy (Young Hyun)
 * [HW1](https://editor.p5js.org/yhkim9914/sketches/01EEqZeeg)
 * [HW2](https://editor.p5js.org/yhkim9914/sketches/uuFfCfHD1)
+* [HW3](https://editor.p5js.org/yhkim9914/sketches/DbRDIhUM0)
 ### Jiyoon
 * [HW1](https://editor.p5js.org/jkim394/sketches/ofVpFai-z)
 * [HW2](https://editor.p5js.org/jkim394/sketches/VnQVovzxwh)
@@ -64,6 +67,7 @@
 ### Ash (Aixue)
 * [HW1](https://editor.p5js.org/aixuew22/sketches/ll8gOwEHt)
 * [HW2](https://editor.p5js.org/aixuew22/sketches/G5aFhe-l2)
+* [HW3](https://editor.p5js.org/aixuew22/sketches/ip5LNLlpy)
 ### Jae Ho
 * [HW1](https://editor.p5js.org/jyi12/sketches/qu35CZOfm)
 * [HW3](https://editor.p5js.org/jyi12/sketches/G1Pvzjd2X)
