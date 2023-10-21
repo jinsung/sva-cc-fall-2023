@@ -122,6 +122,7 @@
 
 ### Week 7 -- Function / Clock
  * [DIA](https://dia.tv/)
+    * [KIKK Festival](https://www.youtube.com/watch?v=JVS-AO4yqA4)
  * Presenters: Sammi, Roy, Carol
  * Function
     * Function basic
