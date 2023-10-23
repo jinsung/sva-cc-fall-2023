@@ -133,10 +133,6 @@
  * [Clock](https://editor.p5js.org/jinsung/sketches/6zSA6_ZeW)
     * [John Maeda's 12 o'clocks](https://codingtrain.github.io/12oclocks/)
     * Yugo Nakamura ([DotClock](https://frm.fm/a/yugo_nakamura/dotclock), [DropClock](https://frm.fm/a/yugo_nakamura/dropclock),  [Industrious Clock](https://www.youtube.com/watch?v=HY6kUGpBoro))
- * Sound Viz
-    * [Sound file](https://drive.google.com/file/d/1sambpmU6kbZ8bfxDMcTp9bimarLSQZCJ/view?usp=sharing)
-    * [FFT intro](https://editor.p5js.org/jinsung/sketches/_D5CCIxPi)
-    * [Waveform](https://editor.p5js.org/jinsung/sketches/STCESlFxY)
  * Midterm / Next Presenters
 
 ### Week 8 -- Object / Sound
@@ -144,7 +140,11 @@
     * [HIKARI NO TOKEI](https://tha.jp/1367)
     * [INDUSTRIOUS CLOCK](https://tha.jp/2816)
  * [Motion Inspo.](https://www.are.na/lochlan-doyle/motion-techniques)
- * Recursion (TODO)
+ * Sound Viz
+   * [Sound file](https://drive.google.com/file/d/1sambpmU6kbZ8bfxDMcTp9bimarLSQZCJ/view?usp=sharing)
+   * [FFT intro](https://editor.p5js.org/jinsung/sketches/_D5CCIxPi)
+   * [Waveform](https://editor.p5js.org/jinsung/sketches/STCESlFxY)
+ * [Recursion](https://editor.p5js.org/jinsung/sketches/LGemc_M_G)
  * [Object](https://editor.p5js.org/jinsung/sketches/KtVF8apBV)
    * Encapsulation, 
    * class & constructor
