@@ -146,9 +146,9 @@
    * [Waveform](https://editor.p5js.org/jinsung/sketches/STCESlFxY)
  * [Recursion](https://editor.p5js.org/jinsung/sketches/LGemc_M_G)
  * [Object](https://editor.p5js.org/jinsung/sketches/KtVF8apBV)
-   * Encapsulation, 
    * class & constructor
    * keywords: new, this
+   * Principles: Inheritance, Encapsulation, Polymophism, Abstraction
 
 ### Week 9 -- Array
  * https://experiments.withgoogle.com/
