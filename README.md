@@ -147,6 +147,7 @@
  * [Recursion](https://editor.p5js.org/jinsung/sketches/LGemc_M_G)
  * [Object](https://editor.p5js.org/jinsung/sketches/KtVF8apBV)
    * class & constructor
+   * contructor arguments
    * keywords: new, this
    * Principles: Inheritance, Encapsulation, Polymophism, Abstraction
 
