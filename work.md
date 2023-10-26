@@ -20,6 +20,8 @@
 * [HW3](https://editor.p5js.org/cfunke/sketches/ps96Q-vE-)
 ### Skylar (Shaowen)
 * [HW1](https://editor.p5js.org/sgong8/sketches/sBF9HGIUu)
+* [HW2](https://editor.p5js.org/sgong8/sketches/a9dZOsYSM)
+* [HW3](https://editor.p5js.org/sgong8/sketches/a9dZOsYSM)
 ### Meichen (Kira)
 * [HW1](https://editor.p5js.org/mguo10/sketches/EB8zYyUwS)
 * [HW2](https://editor.p5js.org/mguo10/sketches/E4pa1sLah)
