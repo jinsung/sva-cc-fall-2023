@@ -140,6 +140,7 @@
     * [HIKARI NO TOKEI](https://tha.jp/1367)
     * [INDUSTRIOUS CLOCK](https://tha.jp/2816)
  * [Motion Inspo.](https://www.are.na/lochlan-doyle/motion-techniques)
+ * Presenters: Joe, Jiyoon, Kira
  * Sound Viz
    * [Sound file](https://drive.google.com/file/d/1sambpmU6kbZ8bfxDMcTp9bimarLSQZCJ/view?usp=sharing)
    * [FFT intro](https://editor.p5js.org/jinsung/sketches/_D5CCIxPi)
