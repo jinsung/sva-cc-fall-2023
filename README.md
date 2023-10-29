@@ -143,8 +143,6 @@
  * Presenters: Joe, Jiyoon, Kira
  * Sound Viz
    * [Sound file](https://drive.google.com/file/d/1sambpmU6kbZ8bfxDMcTp9bimarLSQZCJ/view?usp=sharing)
-   * [FFT intro](https://editor.p5js.org/jinsung/sketches/_D5CCIxPi)
-   * [Waveform](https://editor.p5js.org/jinsung/sketches/STCESlFxY)
  * [Recursion](https://editor.p5js.org/jinsung/sketches/LGemc_M_G)
  * [Object](https://editor.p5js.org/jinsung/sketches/KtVF8apBV)
    * class & constructor
@@ -154,10 +152,14 @@
 
 ### Week 9 -- Array
  * https://experiments.withgoogle.com/
+ * Presenters: Guanyan, Yooneui, Taeyeon
  * [Array](https://editor.p5js.org/jinsung/sketches/cHcf9kZdc)
  * [Interactive bezier](https://editor.p5js.org/jinsung/sketches/p4dMawHQB)
  * [Array with For Loop](https://editor.p5js.org/jinsung/sketches/LC-b5TInX)
  * [Object with Array](https://editor.p5js.org/jinsung/sketches/xKneEnFnW)
+ * Sound Viz
+   * [FFT intro](https://editor.p5js.org/jinsung/sketches/_D5CCIxPi)
+   * [Waveform](https://editor.p5js.org/jinsung/sketches/STCESlFxY)
  * Adding Files and Fonts
  * [Moving Characters 1](https://editor.p5js.org/jinsung/sketches/cJWSbuV1P2)
  
