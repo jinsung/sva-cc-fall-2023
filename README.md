@@ -165,6 +165,7 @@
    * String
      * Exercise: Coordinate numbers on bouncing circles
    * Adding Files and Fonts
+   * [Bezier Text](https://editor.p5js.org/jinsung/sketches/iXmoy4Rck)
  
  
 ### Week 10 -- Kinetic Typography
