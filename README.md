@@ -161,19 +161,24 @@
  * Sound Viz
    * [FFT intro](https://editor.p5js.org/jinsung/sketches/_D5CCIxPi)
    * [Waveform](https://editor.p5js.org/jinsung/sketches/STCESlFxY)
- * Adding Files and Fonts
- * [Moving Characters 1](https://editor.p5js.org/jinsung/sketches/cJWSbuV1P2)
+ * Text
+   * String
+     * Exercise: Coordinate numbers on bouncing circles
+   * Adding Files and Fonts
+ 
  
 ### Week 10 -- Kinetic Typography
+ * Midterm
+ * [Moving Characters 1](https://editor.p5js.org/jinsung/sketches/cJWSbuV1P2)
  * [kinetic type generator](https://spacetypegenerator.com/) from [kielm](https://www.kielm.com/)
  * [Moving Charactors 2](https://editor.p5js.org/jinsung/sketches/SsIxIlQYa)
  * [Moving Charactors 3](https://editor.p5js.org/jinsung/sketches/aHTNv334s)
 
 ### Week 11 -- TBD
  * [three.js](https://threejs.org/)
+ * 
  
 ### Week 12 -- Pixels / Webcam
- * Mid-term Due
  * [ml5](https://learn.ml5js.org/docs/#/)
  * [posenet](https://medium.com/tensorflow/real-time-human-pose-estimation-in-the-browser-with-tensorflow-js-7dd0bc881cd5)
  * [Image](https://editor.p5js.org/jinsung/sketches/eH8irXDTj)
