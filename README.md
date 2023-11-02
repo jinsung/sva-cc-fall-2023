@@ -155,7 +155,7 @@
    * [Song Maker](https://musiclab.chromeexperiments.com/Song-Maker)
    * [Shared Piano](https://musiclab.chromeexperiments.com/Shared-Piano/#dtCBOdDWj)
    * [Scan Sequencer](https://jeonghopark.github.io/scanseqjs/)
- * Presenters: Guanyan, Yooneui, Taeyeon
+ * Presenters: Guanyan, Yooneui
  * [Array](https://editor.p5js.org/jinsung/sketches/cHcf9kZdc)
    * What is an Array
    * Define and assign an array
@@ -170,7 +170,7 @@
    * [Waveform](https://editor.p5js.org/jinsung/sketches/STCESlFxY)
  
 ### Week 10 -- Putting Together
- * Presenters: Skylar, Jae Ho
+ * Presenters: Skylar, Jae Ho, Taeyeon
  * Midterm presentation
  * Text
    * String
