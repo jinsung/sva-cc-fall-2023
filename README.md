@@ -152,6 +152,9 @@
 
 ### Week 9 -- Array
  * https://experiments.withgoogle.com/
+   * [Song Maker](https://musiclab.chromeexperiments.com/Song-Maker)
+   * [Shared Piano](https://musiclab.chromeexperiments.com/Shared-Piano/#dtCBOdDWj)
+   * [Scan Sequencer](https://jeonghopark.github.io/scanseqjs/)
  * Presenters: Guanyan, Yooneui, Taeyeon
  * [Array](https://editor.p5js.org/jinsung/sketches/cHcf9kZdc)
    * [Snake](https://editor.p5js.org/jinsung/sketches/G7-QROTO6)
@@ -161,23 +164,22 @@
  * Sound Viz
    * [FFT intro](https://editor.p5js.org/jinsung/sketches/_D5CCIxPi)
    * [Waveform](https://editor.p5js.org/jinsung/sketches/STCESlFxY)
+ 
+### Week 10 -- Object Interaction / Text
+ * Midterm
+ * Collision detection
  * Text
    * String
      * Exercise: Coordinate numbers on bouncing circles
    * Adding Files and Fonts
    * [Bezier Text](https://editor.p5js.org/jinsung/sketches/iXmoy4Rck)
- 
- 
-### Week 10 -- Kinetic Typography
- * Midterm
+
+### Week 11 -- Kinetic Typography
+ * [three.js](https://threejs.org/)
  * [Moving Characters 1](https://editor.p5js.org/jinsung/sketches/cJWSbuV1P2)
  * [kinetic type generator](https://spacetypegenerator.com/) from [kielm](https://www.kielm.com/)
  * [Moving Charactors 2](https://editor.p5js.org/jinsung/sketches/SsIxIlQYa)
  * [Moving Charactors 3](https://editor.p5js.org/jinsung/sketches/aHTNv334s)
-
-### Week 11 -- TBD
- * [three.js](https://threejs.org/)
- * 
  
 ### Week 12 -- Pixels / Webcam
  * [ml5](https://learn.ml5js.org/docs/#/)
