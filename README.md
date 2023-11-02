@@ -157,16 +157,21 @@
    * [Scan Sequencer](https://jeonghopark.github.io/scanseqjs/)
  * Presenters: Guanyan, Yooneui, Taeyeon
  * [Array](https://editor.p5js.org/jinsung/sketches/cHcf9kZdc)
-   * [Snake](https://editor.p5js.org/jinsung/sketches/G7-QROTO6)
+   * What is an Array
+   * Define and assign an array
+   * Getting element value
    * [Array with For Loop](https://editor.p5js.org/jinsung/sketches/LC-b5TInX)
+   * [Snake](https://editor.p5js.org/jinsung/sketches/G7-QROTO6)
    * [Interactive bezier](https://editor.p5js.org/jinsung/sketches/p4dMawHQB)
    * [Object with Array](https://editor.p5js.org/jinsung/sketches/xKneEnFnW)
+   * [Interactive Objects](https://editor.p5js.org/jinsung/sketches/r3iRZxFPs)
  * Sound Viz
    * [FFT intro](https://editor.p5js.org/jinsung/sketches/_D5CCIxPi)
    * [Waveform](https://editor.p5js.org/jinsung/sketches/STCESlFxY)
  
 ### Week 10 -- Object Interaction / Text
- * Midterm
+ * Presenters: Skylar, Jae Ho
+ * Midterm presentation
  * Collision detection
  * Text
    * String
