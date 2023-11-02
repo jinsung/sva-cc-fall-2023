@@ -169,15 +169,18 @@
    * [FFT intro](https://editor.p5js.org/jinsung/sketches/_D5CCIxPi)
    * [Waveform](https://editor.p5js.org/jinsung/sketches/STCESlFxY)
  
-### Week 10 -- Object Interaction / Text
+### Week 10 -- Putting Together
  * Presenters: Skylar, Jae Ho
  * Midterm presentation
- * Collision detection
  * Text
    * String
      * Exercise: Coordinate numbers on bouncing circles
    * Adding Files and Fonts
    * [Bezier Text](https://editor.p5js.org/jinsung/sketches/iXmoy4Rck)
+ * Putting Together
+   * Idea - Start with an idea
+   * Parts - Break the idea down into smaller parts
+   * Integration - Take all the classes from Parts and integrate them into one larger algorithm
 
 ### Week 11 -- Kinetic Typography
  * [three.js](https://threejs.org/)
