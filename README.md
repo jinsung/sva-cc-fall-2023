@@ -177,7 +177,7 @@
      * Exercise: Coordinate numbers on bouncing circles
    * Adding Files and Fonts
    * [Bezier Text](https://editor.p5js.org/jinsung/sketches/iXmoy4Rck)
- * Putting Together
+ * [Putting Together](https://docs.google.com/document/d/1HONcIQmerhhLLn1MdpNw_jtPvBageGE33adoKJ3Abeo/edit)
    * Idea - Start with an idea
    * Parts - Break the idea down into smaller parts
    * Integration - Take all the classes from Parts and integrate them into one larger algorithm
