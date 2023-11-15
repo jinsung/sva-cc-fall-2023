@@ -172,22 +172,26 @@
 ### Week 10 -- Putting Together
  * Presenters: Skylar, Jae Ho, Taeyeon
  * Midterm presentation
- * Text
-   * String
-     * Exercise: Coordinate numbers on bouncing circles
-   * Adding Files and Fonts
-   * [Bezier Text](https://editor.p5js.org/jinsung/sketches/iXmoy4Rck)
  * [Putting Together](https://docs.google.com/document/d/1HONcIQmerhhLLn1MdpNw_jtPvBageGE33adoKJ3Abeo/edit?usp=sharing)
    * Idea - Start with an idea
    * Parts - Break the idea down into smaller parts
    * Integration - Take all the classes from Parts and integrate them into one larger algorithm
 
 ### Week 11 -- Kinetic Typography
- * [three.js](https://threejs.org/)
- * [Moving Characters 1](https://editor.p5js.org/jinsung/sketches/cJWSbuV1P2)
  * [kinetic type generator](https://spacetypegenerator.com/) from [kielm](https://www.kielm.com/)
+ * Text
+   * String
+     * Exercise: Coordinate numbers on bouncing circles
+   * Adding Files and Fonts
+ * [Bezier Text](https://editor.p5js.org/jinsung/sketches/iXmoy4Rck)
+ * [Moving Characters 1](https://editor.p5js.org/jinsung/sketches/cJWSbuV1P2)
  * [Moving Charactors 2](https://editor.p5js.org/jinsung/sketches/SsIxIlQYa)
  * [Moving Charactors 3](https://editor.p5js.org/jinsung/sketches/aHTNv334s)
+ * [Letter Animation 1](https://editor.p5js.org/jinsung/sketches/eyAyczpBO)
+ * [Letter Animation 2](https://editor.p5js.org/jinsung/sketches/dUCDvAlbf)
+ * [Letter Animation 3](https://editor.p5js.org/jinsung/sketches/qUrMNVhiS)
+ * [Letter Animation 3-1](https://editor.p5js.org/jinsung/sketches/_j2Xx0VqV)
+ * [Letter Animation 4](https://editor.p5js.org/jinsung/sketches/bcS4TW7iv)
  
 ### Week 12 -- Pixels / Webcam
  * [ml5](https://learn.ml5js.org/docs/#/)
