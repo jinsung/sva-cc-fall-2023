@@ -176,12 +176,14 @@
    * Idea - Start with an idea
    * Parts - Break the idea down into smaller parts
    * Integration - Take all the classes from Parts and integrate them into one larger algorithm
+ * Text
+   * String
+     * Exercise: Coordinate numbers on bouncing circles
 
 ### Week 11 -- Kinetic Typography
  * [kinetic type generator](https://spacetypegenerator.com/) from [kielm](https://www.kielm.com/)
  * Text
    * String
-     * Exercise: Coordinate numbers on bouncing circles
    * Adding Files and Fonts
  * [Bezier Text](https://editor.p5js.org/jinsung/sketches/iXmoy4Rck)
  * [Moving Characters 1](https://editor.p5js.org/jinsung/sketches/cJWSbuV1P2)
