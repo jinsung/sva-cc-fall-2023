@@ -205,7 +205,7 @@
  * [Webcam](https://editor.p5js.org/jinsung/sketches/r17qhhmTm)
  * [Webcam+Ascii](https://editor.p5js.org/jinsung/sketches/WxPEGXAPL)
  
-### Week 13 -- 1:1
+### Week 13 -- 1:1 [Schedules Sheet](https://docs.google.com/spreadsheets/d/1E8BuJLhyM9UmcacgGWr582Q3b11j_8GZy44GZCpup-0/edit#gid=0)
 
 ### Week 14 -- 1:1
 
