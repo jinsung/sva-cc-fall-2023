@@ -203,7 +203,7 @@
  * [Pixel](https://editor.p5js.org/jinsung/sketches/JSDPUVCmO)
  * [Ascii Art](https://editor.p5js.org/jinsung/sketches/EOUDJMDbn)
  * [Pixel Animation](https://editor.p5js.org/jinsung/sketches/tdGXQhDob)
- * [Webcam](https://editor.p5js.org/jinsung/sketches/r17qhhmTm)
+ * [Webcam](https://editor.p5js.org/jinsung/sketches/DrVtRhw4R)
  * [Webcam+Ascii](https://editor.p5js.org/jinsung/sketches/WxPEGXAPL)
  
 ### Week 13 -- 1:1 [Schedules Sheet](https://docs.google.com/spreadsheets/d/1E8BuJLhyM9UmcacgGWr582Q3b11j_8GZy44GZCpup-0/edit?usp=sharing)
