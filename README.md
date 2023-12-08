@@ -208,7 +208,7 @@
  
 ### Week 13 -- 1:1 [Schedules Sheet](https://docs.google.com/spreadsheets/d/1E8BuJLhyM9UmcacgGWr582Q3b11j_8GZy44GZCpup-0/edit?usp=sharing)
 
-### Week 14 -- 1:1
+### Week 14 -- 1:1 [Schedules Sheet](https://docs.google.com/spreadsheets/d/1RyvK1VxdV_BjPg78wSvpDBRispT_Swen0triABWyN9U/edit?usp=sharing)
 
 ### Week 15 (04/27/2023) -- Final Project Presentation
 
