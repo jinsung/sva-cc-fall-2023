@@ -57,6 +57,8 @@
 * [HW1](https://editor.p5js.org/yoonique/sketches/QPfAlWfUf)
 * [HW2](https://editor.p5js.org/yoonique/sketches/VPiMmJt4u)
 * [MT](https://editor.p5js.org/yoonique/sketches/rJKqGgF2C)
+* [Final](https://editor.p5js.org/yoonique/sketches/uyebw62hK)
+* [Final](https://editor.p5js.org/yoonique/sketches/S8zy33FWe)
 ### Minjung
 * [HW1](https://editor.p5js.org/Originalsmj/sketches/huf5-7JtN)
 * [HW3](https://editor.p5js.org/Originalsmj/sketches/yXTewG5U4)
